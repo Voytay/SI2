@@ -1,0 +1,40 @@
+div{
+  width: 85%;
+  padding: 15px;
+  margin: auto;
+  text-align: center;
+  font-family: fantasy;
+}
+#menu{
+  background-color: #6699FF;
+
+}
+#menu a{
+  text-decoration: none;
+  font-size: 16px;
+}
+#menu a:hover{
+  text-decoration: underline;
+  font-size: 24px;
+}
+#text h1{
+  text-align: left;
+}
+#text{
+
+  background-color: #99CCFF;
+}
+#container{
+  background-color: #d6ebff;
+}
+#footer{
+  background-color: #d6ebff;
+}
+.gallery img{
+  width: 25%;
+
+
+}
+.gallery div{
+  display: inline;
+}
